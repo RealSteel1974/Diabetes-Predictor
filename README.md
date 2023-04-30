@@ -1,5 +1,5 @@
 # Diabetes-Predictor
-a ML model for predicting diabetes
+a ML model for predicting diabetes built using django
 
 # Clone the repository to your local machine.
 Install the required dependencies using pip:
